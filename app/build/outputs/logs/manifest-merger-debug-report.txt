@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:3:2-34
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:3:35-58
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:5:2-14:15
+	android:label
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:5:45-77
+	android:icon
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:5:15-44
+activity#banasik.mateusz.sudoku.Sudoku
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:6:3-11:14
+	android:label
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:6:13-45
+	android:name
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:6:46-90
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:7:4-10:20
+action#android.intent.action.MAIN
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:8:5-57
+	android:name
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:8:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:9:15-62
+activity#banasik.mateusz.sudoku.About
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:12:3-148
+	android:label
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:12:13-48
+	android:theme
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:12:49-92
+	android:name
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:12:93-136
+activity#banasik.mateusz.sudoku.Game
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:13:3-67
+	android:name
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:13:13-55
+uses-sdk
+ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:15:2-40
+	android:targetSdkVersion
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml:15:12-37
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hubert/Pulpit/MySudoku/app/src/main/AndroidManifest.xml

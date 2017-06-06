@@ -1,0 +1,7 @@
+#Sat Jun 03 17:28:31 CEST 2017
+base.0=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa31cd7296bf0dde6bfd7446e9d2090b5385d95d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aff968803a5e2abc2acf03adb4cced72eebe9c3/classes.dex
+base.1=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aff968803a5e2abc2acf03adb4cced72eebe9c3
+file.0=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa31cd7296bf0dde6bfd7446e9d2090b5385d95d/classes.dex

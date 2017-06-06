@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat Jun 03 17:28:31 CEST 2017
+2.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+2.set=ANDROID_RESOURCE
+4.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/res/layout/keypad.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aff968803a5e2abc2acf03adb4cced72eebe9c3/classes.dex
+5.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa31cd7296bf0dde6bfd7446e9d2090b5385d95d/classes.dex
+4.set=ANDROID_RESOURCE
+6.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/res/layout/about.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aff968803a5e2abc2acf03adb4cced72eebe9c3
+8.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa31cd7296bf0dde6bfd7446e9d2090b5385d95d
+3.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/hubert/Pulpit/MySudoku/app/build/intermediates/res/resources-debug.ap_/res/layout-land/main.xml
+8.set=DEX
+0.set=DEX
